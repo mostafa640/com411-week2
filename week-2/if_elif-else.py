@@ -11,5 +11,3 @@ elif direction == "left":
 elif direction == "right":
     print("I am painting in the rightward direction!")
 
-else:
-    print("not sure which direction means")
